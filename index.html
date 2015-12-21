@@ -1,45 +1,23 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Achal's corner in the tubes</title>
+---
+layout: default
+---
 
-    <script type="text/javascript">
+<div class="home">
 
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-31343311-1']);
-      _gaq.push(['_trackPageview']);
+  <h1 class="page-heading">Posts</h1>
 
-      (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-  </head>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-<body>
-<h1></h1>
-<hr>
-<address></address>
-<H1>Achal Shah</H1>
-<BR></BR>
-Hi, I'm Achal Shah, a software engineer at Uber Technologies. I'm in the Application Platform team, building tools and infrastructure to ensure that internal services are healthy/well-scaled. I'm interested in Distribute Systems and Scalable systems professionally, and a variety of things in general.
-<BR></BR>
-I worked for over two years at Amazon Fulfillment Technologies in Seattle, where I worked on solving operational problems at scale. My first team owned software for the sortaion process inside the fulfillment centers. Next, I worked in the forecasting space, aimed specifically for the problem of fulfillment planning.
-I absolutely loved my experience at Amazon, and also Seattle. But round Sept 2015, it seemed like a change was due..
-<BR></BR>
-I previously interned at Raytheon BBN Technologies, working on the <a href="http://www.iarpa.gov/solicitations_fuse.html">FUSE</a> project.
-<BR></BR>
-As a grad student, I'm worked on an independent study on <a href = "https://alliance.seas.upenn.edu/~datamine/wiki/index.php?title=Eigenwords">Eigenwords</a> with
-<a href = "http://www.cis.upenn.edu/~ungar/">Prof. Lyle Ungar</a>
-<BR></BR>
-You can find me on <a href= "http://www.linkedin.com/pub/achal-shah/5/79b/949">LinkedIn</a>, <a href = "https://twitter.com/achals">Twitter</a>, and
-<a href="https://www.facebook.com/achal.shah">Facebook</a>.
-<BR></BR>
-I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside.
-<a href = "http://www.linkedin.com/in/rushinnshah">My brother</a> currently works at Apple, and
-<a href="http://www.linkedin.com/pub/rishita-anubhai/14/474/685">my wife</a> was at Microsoft, but is now at Baidu Research.
-<BR></BR>
-My Resume can be found <a href="resume.pdf">here</a>, and whatever toy projects I work on on <a href="https://github.com/achals">github</a>. You can get in touch with me at (First Name)(Last Initial) AT alumni DOT upenn DOT edu.
-</body>
-</html>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
