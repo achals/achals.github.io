@@ -14,7 +14,7 @@ As a grad student, I'm worked on an independent study on [Eigenwords](https://al
 
 You can find me on [LinkedIn](http://www.linkedin.com/pub/achal-shah/5/79b/949), [Twitter](https://twitter.com/achals), and [Facebook](https://www.facebook.com/achal.shah).
 
-I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My brother](http://www.linkedin.com/in/rushinnshah) currently works at Apple, and [my wife](http://www.linkedin.com/pub/rishita-anubhai/14/474/685) was at Microsoft, but is now at Baidu Research.
+I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My wife](http://www.linkedin.com/pub/rishita-anubhai/14/474/685) was at Microsoft, but is now at Baidu Research. [My brother](http://www.linkedin.com/in/rushinnshah) currently works at Apple.
 
 My Resume can be found [here](/resume.pdf).
 
