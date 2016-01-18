@@ -17,3 +17,5 @@ You can find me on [LinkedIn](http://www.linkedin.com/pub/achal-shah/5/79b/949),
 I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My brother](http://www.linkedin.com/in/rushinnshah) currently works at Apple, and [my wife](http://www.linkedin.com/pub/rishita-anubhai/14/474/685) was at Microsoft, but is now at Baidu Research.
 
 My Resume can be found [here](/resume.pdf).
+
+[Public Key.](https://keybase.io/achals/key.asc)
