@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "On moving"
+date:   2016-03-28 12:49:55
+tags: complacency seattle moving
+---
+
+This post spent a long time fermenting in my brain; I'm still not conviced I've truly nailed down what I want to say about moving from Seattle to the Bay Area. There's so many aspects to it - from the motivation, to the process, and finally the aftermath. But I figure a half-baked post on a blog that no one reads is better than another dead blog. :)
+
+September last year my wife and I moved from Seattle to the Bay Area. Both of us had stable, well-paying jobs in Seattle. We both enjoyed what we were doing, had found a great group of friends from work and college, and basically _loved_ it in Seattle. I think it still remains my favorite city  - and Washington State my favorite state - in this country. I loved almost everything about Seattle - I loved that I could afford to live in a nice part of the city, without having to live in the suburb. I loved that our apartment building there wasn't 20 years old, and was only 8 blocks away from the Pike Place Market and the waterfront. I loved that we could go hiking on Saturdays and kayaing on Sundays without having to drive more than 30 minutes to either destination.
+
+I absolutely *loved* the coffee places there, and the fact that I could go for random walks and just happen to find interesting quirky places that I had never been to and meet interesting people there. Even right now, reminiscing about the time I spend there puts a smile on my face and makes me pang to be there again. In some ways, this post will probably read like a love letter to this city as much as a recounting of how life takes you unexpected places.
+
+That said, if I loved Seattle so much, why on Earth did I leave?
+
+There's a few superficial reasons why we started thinking about moving - Rish moved to Seattle from Stanford, and having lived there for a couple of years while being in the tech industry herself, we joked that her yearning to move back would never subside. But as it turned out, Rish fell in love with the PNW just as much as me. My fears over moving were matched, possibly overshadowed, by hers.
+
+I think the real reason we moved was to fight complacency.
+
+I'll speak for myself personally and let Rish tell her side of the story herself. :) Around the start of 2015, I found that I had gotten extremely comfortable at my current job. I had begun coasting - I wasn't challenging myself with the projects I was working on, nor did they really align with my long term vision of things that I wanted to work on.
+
+One aspect of this was making an impact - a really significant impact, personally - which I didn't really feel like I was making. With large organziations, the problem that any one team can handle usually narrows in scope to the point. This makes sense, and it's the only sane way in which things can still get done without total cognitive overload - but at least in my case, it also meant that I was working on an extremely specific problem - one that I wasn't convinced could/would be solved, or required solving to begin with.
+
+Another part of this was to make something that other developers actively wanted to use, and solved an infrastructure problem they were facing. There was a disconnect between what my team needed to deliver on, and the kinds of things I enjoyed building - and by the time 2015 began, it had caught up with me. I had spent a great deal of time working on things without having drunk the necessary kool-aid, and my motivation was slipping, and I felt the need for a change.
+
+Taking stock of these things - the fact that the main discontent was professional, and not personal, I started looking for opprtunities to do all the things that I really wanted to do. And as disappointing as it was to admit, the same kind of opportunties that were available in plenty in SF just didn't exist in Seattle. Sure, there were companies that were challenging interesting problems in Seattle - there were even a bunch of SF-based companies that had opened offices in Seattle, Uber being one of them. But having worked for a couple of years I truly valued being in HQ for any company - the sense of purpose and collectiveness is tough to emulate at remote locations. While this may not be true in general, it was important enough for me that moving kinda became inevitable.
+
+Ultimately (with the help of hindsight), I think life decisions - like all decisions - come down to priorities, and the things you choose to prioritize over others. For the two years I was in Seattle, lifestyle was definitely what I was optimizing for. But come 2015.. Priorities started shifting. Lifestyle took a backseat to the temptation of working on something interesting, something that induced genuine drive. I'm not sure how long I'll be in the States for (that's a topic for a different post maybe), so the urgency to make sure that I made my time here count seemed even higher after a couple of years of not having done so. And given the constraints that we had to play with - moving is what had to be done.
+
+A colleague once told me that change is often a good thing - sometimes necessary to bring around motivation. There's a finite amount of hours anyone in the world has - and I recognize that I'm more fortunate than most for getting the opportunities and support I've gotten throughout my life. It felt like what I truly owed myself was the opportunity to try something that I hadn't done before, but something I would learn from and something I was excited by - even if it meant giving up the city, friends, and life that I had learned to love deeply. So that's what Rish and I both did.
+
+Looking back almost a year after moving.. I'm happy with the way things turned out. I can't say that life is better here across the board - but then again, that was never the point. The point was to be happier at work, and that I genuinely am. As for life outside of work - it's not bad! I've managed to find new coffee shops and places of fancy, and I actually quite like some of the neighbourhoods here.
+
+But Seattle will always be Seattle. :)
