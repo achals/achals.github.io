@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "GIT_SSH"
+date:   2016-07-26 12:49:55
+tags: blog
+---
+
+At Uber, I’m currently building a self-service task execution platform, which involves getting code/artifacts from different sources, building them if necessary, and executing some commands using the artifacts.
+
+One thing that we wanted to support is to allow users to point to a git repository, specify some build commands and a final execution command. Using JGit to clone the repository, and a ProcessBuilder to start the processes, that sounded easy.
+
+BUT.
+
+There's a lot of golang services where I work, and building go services from scratch usually needs git to resolve dependencies. This was a problem for me, because like many other production environments, the infrastructure to access source control is missing in production - even for internally hosted repositories. The main problem is that the private keys needed to securely access repositories aren’t deployed to the production hosts.
+
+The obvious (dumb?0 solution is to customize the environment setup for our service to have private keys placed within ~/.ssh/ of the production instances as part of the build process. This works, but not in a general way - it assumes that the user running the service has access to _all_ the repos - which is definitely untrue in the cases secret projects or private repos.
+
+This is where [GIT_SSH](https://git-scm.com/book/en/v2/Git-Internals-Environment-Variables#Miscellaneous) comes in - essentially, git allows you to explicitly specify the ssh command that should be used while talking to remote repositories.
+
+So, users can specify:
+`GIT_SSH=team/service/git_ssh_command.sh`
+
+And the contents of git_ssh_command.sh can be something like:
+```
+#!/bin/sh
+exec /usr/bin/ssh -o StrictHostKeyChecking=no -i /magic/location/id_rsa "$@"
+```
+
+And there you go! The great thing is that your `glide` or equivalent-go-build-tool commands will just use this automagically, and it can change this per process. That's great for multi-tenancy in your system, and a single instance can handle multiple jobs, even if each job needs a different private key.
+
+
