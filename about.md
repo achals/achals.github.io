@@ -12,7 +12,7 @@ I previously interned at Raytheon BBN Technologies, working on the [FUSE project
 
 As a grad student, I'm worked on an independent study on [Eigenwords](https://alliance.seas.upenn.edu/~datamine/wiki/index.php?title=Eigenwords) with [Prof. Lyle Ungar](http://www.cis.upenn.edu/~ungar/)
 
-You can find me on [LinkedIn](http://www.linkedin.com/pub/achal-shah/5/79b/949), [github](https://github.com/achals), [Twitter](https://twitter.com/achals), and [Facebook](https://www.facebook.com/achal.shah).
+You can find me on [LinkedIn](http://www.linkedin.com/pub/achal-shah/5/79b/949), [github](https://github.com/achals), and [Facebook](https://www.facebook.com/achal.shah), but, I'm most reliably reachable via email.
 
 I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My wife](http://www.linkedin.com/pub/rishita-anubhai/14/474/685) was at Microsoft, but is now at Baidu Research. [My brother](http://www.linkedin.com/in/rushinnshah) currently works at Apple.
 
