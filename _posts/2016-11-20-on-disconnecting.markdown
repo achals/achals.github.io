@@ -16,7 +16,7 @@ Long amounts of time spent thinking and working on a singular problem ends up bl
 
 It often also helps to take a break and be able to ask more fundamental questions, ranging from “Am I solving the right problems?” to much harder ones like  “In my career, am I where I want to be? Do I enjoy the path that I’m on?”. Like me, I’m sure that their career is a big part of of a lot of folks’ lives - and every now and then, it’s good to make sure that the time spent on it is time well spent.
 
-In slight contradiction the previous sentiment though.. People are alss definitely more than their jobs. Taking time out from work to discover and experience things that you enjoy - books, travel, new hobbies, spending time in coffee shops with loved ones talking - is precious time.
+In slight contradiction the previous sentiment though.. People are also definitely more than their jobs. Taking time out from work to discover and experience things that you enjoy - books, travel, new hobbies, spending time in coffee shops with loved ones talking - is precious time.
 
 
 I realize that the sentiments here amount to a really tall order - one must enjoy work, but take breaks to further be better at/enjoy work, but also value break time for growth in other aspects. And that’s true - time is the more precious, basic and impactful resource we have at our disposal, for spending and investment. And trying to make sure that none of it is wasted; that as much time as possible can be spent on things I find valuable - I find that that makes me a more well-rounded, and happy individual.
