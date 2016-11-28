@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/achals
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://achals.com
+  * I am achals (https://keybase.io/achals) on keybase.
+  * I have a public key with fingerprint 3B70 B055 8ECB E371 F5C3  192C EA2D 2931 A958 AE9D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e40e244876d9064d36e53f6b5e0f64bfc29da1bac2ba28b35c3b68bd5b762c800a",
+            "fingerprint": "3b70b0558ecbe371f5c3192cea2d2931a958ae9d",
+            "host": "keybase.io",
+            "key_id": "ea2d2931a958ae9d",
+            "kid": "0101e40e244876d9064d36e53f6b5e0f64bfc29da1bac2ba28b35c3b68bd5b762c800a",
+            "uid": "6fad813a67c68d8829d8fca72fcd9400",
+            "username": "achals"
+        },
+        "service": {
+            "hostname": "achals.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1480319281,
+    "expire_in": 157680000,
+    "prev": "d138a2fe431f674ec804aab9be0ca5cffbb490930c338af1d82c334b79d14b50",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJbSBVBGD7eyZAkNArBaDUib83ed09XCbpAEVGHIpTjzOysZ1PPHs+u
+tw4SaERqF7tQBBaKZYFhF8lEkFQkMitJgx5SISLQtAeR1BCyWamHoMeeZuaf7/v+
+7/v5++MiXLFhno4PN6Zb120KG+y9UuI6vvUTG2KQqVUw7hBTQJYPUqgRy/YWGBrj
+ZgALWCIAwgmCIkuaCiRB4yUi8rqERAJ0SUA65lQNsghiDkFOQbyIeSQpSBORLHFY
+AQAyGYxu+PNJMBA0/DaV5ZEMEBBFhWBEeJnVKYdVOUwgp3Eqz0JVVCBRNUr0mZbD
+oOYQtEiWYdIafXiX7f0D/599lyzLSTrUFJaHkowlRVMUylR0DGVOx5oqAOAALRL0
+wyJC0RD7YKHFVGYwtFZqYOKM1cnx138WNosoLxA0bRObhbTus+2A26HZFQEHV0aQ
+97eCFxl+jY6QEkpJ0DJMP+NmKRLbhiPJCgpwBqiwGQwpDxhB4jUchChLNAcAThtS
+SiU1llcgpxOBZ3VJFgiNKUCIVEQAhiLWdYQEFag8wDwF6qymcPQmIFnVWAGJTlCL
+FPtNxi1SmzCfSlpGvh/aJUHCVPb15ES6wmJd0VHhzmq5YlfE/1m43ekxS+W9XZ6h
+UHXlwouJ1pTX3dx8wvCa2c7G7y9rbvna3RkPz77rarh9ZF4YKzukd+eGtvNMdfBt
+cu30/pOhsqak5BN7X03FdwyQp8LkVZjSfH5DTnGoavhZP95cWNOuLtXXHlzoO5W2
+2pjZeC86MfHndF12WupAqu3ZMSZnXpuISuCz+YjDZ5qfZ4p5D/wTVtu53tnOssdi
+652LJd2j1p7RusWIY6pv7a66N3E3w1pi9kVGtrQ9upvw4/TlJysHu3rCLy1+9rhH
+2iea0r/VrudmZo+mxw2Vf8Rz6v0LI/mLq5pAXX1SrtLiazgwPnc9ga1qzJvaZqAv
+KZPjs++/bunM2fkLqdlDuw==
+=DsWG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/achals
+
+==================================================================
