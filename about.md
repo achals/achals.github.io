@@ -4,7 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I'm Achal Shah, a software engineer at Uber Technologies. I'm in the Application Platform team, building tools and infrastructure to ensure that internal services are healthy, well-scaled, and have sufficient capacity. I'm interested in Distributed Systems and Scalability professionally, and a variety of things in general.
+Hi, I'm Achal Shah, a software engineer at Uber Technologies. I'm in the larger Infrastructure group, building tools and infrastructure to ensure that internal services are healthy, well-scaled, and have sufficient capacity. I'm interested in Distributed Systems and Scalability professionally, and a variety of things in general.
+
+Recently, I've also been tinkering [with GPUs](https://github.com/achals/cs344)!
 
 I worked for over two years at Amazon Fulfillment Technologies in Seattle, where I worked on solving operational problems in the fulfillment space at scale. My first team owned software for the sortaion process inside the fulfillment centers. Next, I worked in the forecasting space, aimed specifically for the problem of fulfillment planning. I absolutely loved my experience at Amazon, and also Seattle. But round Sept 2015, it seemed like a change was due..
 
