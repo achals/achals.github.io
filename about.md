@@ -4,19 +4,19 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I'm Achal Shah, a software engineer at Uber Technologies. I'm in the larger Infrastructure group, building tools and infrastructure to ensure that internal services are healthy, well-scaled, and have sufficient capacity. I'm interested in Distributed Systems and Scalability professionally, and a variety of things in general.
+Hi, I'm Achal! This is my extremley-negected personal website + blog.
 
-Recently, I've also been tinkering [with GPUs](https://github.com/achals/cs344)!
+I'm currently a software engineer at a stealth Data/ML Startup. 
 
-I worked for over two years at Amazon Fulfillment Technologies in Seattle, where I worked on solving operational problems in the fulfillment space at scale. My first team owned software for the sortaion process inside the fulfillment centers. Next, I worked in the forecasting space, aimed specifically for the problem of fulfillment planning. I absolutely loved my experience at Amazon, and also Seattle. But round Sept 2015, it seemed like a change was due..
+Before this, I was an Engineer at Uber - I was the tech lead for the Deep Learning Inferencing, a subteam within the Machine Learning Platform team. I also helped build Hailstorm, a load generation platform.
 
-I previously interned at Raytheon BBN Technologies, working on the [FUSE project](http://www.iarpa.gov/index.php/research-programs/fuse).
+At Amazon Fulfillment Technologies in Seattle, I wrote software for forecasting + planning for Fulfillment Centers. 
 
-As a grad student, I'm worked on an independent study on [Eigenwords](https://alliance.seas.upenn.edu/~datamine/wiki/index.php?title=Eigenwords) with [Prof. Lyle Ungar](http://www.cis.upenn.edu/~ungar/)
+I'm interested in ML Systems, Distributed Systems and Scalability professionally, and a variety of things in general.
 
-You can find me on [LinkedIn](http://www.linkedin.com/pub/achal-shah/5/79b/949), [github](https://github.com/achals), and [Facebook](https://www.facebook.com/achal.shah), but, I'm most reliably reachable via email.
+You can find me on [LinkedIn](https://www.linkedin.com/in/achalnshah/), and [github](https://github.com/achals) and [the tweeter](https://twitter.com/achalsdotcom) but, I'm most reliably reachable via email.
 
-I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My wife](http://www.linkedin.com/pub/rishita-anubhai/14/474/685) was at Microsoft, but is now at Baidu Research. [My brother](http://www.linkedin.com/in/rushinnshah) currently works at Apple.
+I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My wife](https://www.linkedin.com/in/rishitaa/) is an Applied Scientist at AWS. [My brother](http://www.linkedin.com/in/rushinnshah) currently works at Google. My mom writes on [medium](https://medium.com/@ashashah55)!
 
 My Resume can be found [here](/resume.pdf).
 
