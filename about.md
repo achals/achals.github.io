@@ -6,12 +6,12 @@ permalink: /about/
 
 Hi, I'm Achal! This is my extremley-negected personal website + blog.
 
-I'm currently a software engineer at a stealth Data/ML Startup. 
+I'm currently a software engineer at [Tecton](https://tecton.ai/), a startup building a data platform for ML. 
 
 ---
 
 
-Before this, I was an Engineer at Uber - I was the tech lead for the Deep Learning Inferencing, a subteam within the Machine Learning Platform team. I also helped build Hailstorm, a load generation platform.
+Before this, I was an Engineer at Uber - I was the tech lead for the Deep Learning Inferencing project within Michelangelo, the Machine Learning Platform team. I also helped build Hailstorm, a load generation platform.
 
 At Amazon Fulfillment Technologies in Seattle, I wrote software for forecasting + planning for Fulfillment Centers. 
 
