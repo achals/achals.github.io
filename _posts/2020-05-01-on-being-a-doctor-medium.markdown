@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stuff my mom wrote on being a doctor in India"
-date:   2020-04-21 10:09:00
+date:   2020-05-01 10:09:00
 tags: life
 ---
 
