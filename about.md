@@ -22,7 +22,7 @@ I'm interested in Systems, ML, and Scalability professionally, and a variety of 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/achalnshah/), and [github](https://github.com/achals) and [the tweeter](https://twitter.com/achalsdotcom) but, I'm most reliably reachable via email.
 
-I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My wife](https://www.linkedin.com/in/rishitaa/) is an Applied Scientist at AWS. [My brother](http://www.linkedin.com/in/rushinnshah) currently works at Google. My mom writes on [medium](https://medium.com/@ashashah55)!
+I'm originally from Ahmedabad, India, where my parents, both of whom are doctors, currently reside. [My wife](https://www.linkedin.com/in/rishitaa/) is an Applied Scientist at AWS, [my brother](http://www.linkedin.com/in/rushinnshah) currently works at Google, [my sister in law](https://www.linkedin.com/in/anushabalakrishnan/) works at Microsoft Semantic Machines, and my mom writes on [medium](https://medium.com/@ashashah55)!
 
 My Resume can be found [here](/resume.pdf).
 
