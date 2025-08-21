@@ -26,7 +26,5 @@ I'm originally from Ahmedabad, India, where my parents, both of whom are doctors
 
 My Resume can be found [here](/resume.pdf).
 
-[Public Key.](https://keybase.io/achals/key.asc)
-
 In 2025 I moved over my blog to ghost.io at https://blog.achals.com.
 Some old stuff I wrote is still up at [/archive](/archive).

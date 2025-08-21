@@ -4,7 +4,7 @@ email: m@achals.com
 description: > # this means to ignore newlines until "baseurl:"
   Achal Shah's personal webpage and blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://achals.com" # the base hostname & protocol for your site
+url: "https://achals.com" # the base hostname & protocol for your site
 github_username: achals
 
 # Build settings
