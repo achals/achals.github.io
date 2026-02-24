@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Achal! This is my extremley-negected personal website + blog.
+Hi, I'm Achal! This is my extremley-negected personal website + [blog](https://blog.achals.com).
 
 I'm currently a Staff Machine Learning Engineer at [Reddit](https://reddit.com/).
 
@@ -28,5 +28,5 @@ I'm originally from Ahmedabad, India, where my parents, both of whom are doctors
 
 My Resume can be found [here](/resume.pdf).
 
-In 2025 I moved over my blog to ghost.io at https://blog.achals.com.
+In 2025 I moved over my blog to ghost.io at [https://blog.achals.com](https://blog.achals.com).
 Some old stuff I wrote is still up at [/archive](/archive).
